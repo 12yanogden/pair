@@ -1,4 +1,4 @@
-package pair
+package pairs
 
 import (
 	"testing"

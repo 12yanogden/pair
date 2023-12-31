@@ -1,4 +1,4 @@
-package pair
+package pairs
 
 type Pair[F comparable, S comparable] struct {
 	First  F
