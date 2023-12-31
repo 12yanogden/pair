@@ -1,2 +1,2 @@
 # pair
-Provides the pair type with functions.
+Provides the Pair type with functions.
